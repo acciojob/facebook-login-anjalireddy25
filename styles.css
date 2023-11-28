@@ -5,9 +5,8 @@ body{
 	justify-content:center;
 	align-items:center;
 	height:100vh;
-	padding-inline:5px;
 }
-#left{
+#left img{
 	width:450px;
 	margin-top:70px;
 	display:inline-block;
