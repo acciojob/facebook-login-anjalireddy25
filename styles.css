@@ -6,7 +6,7 @@ body{
 	align-items:center;
 	height:100vh;
 }
-#left img{
+.left img{
 	width:450px;
 	margin-top:70px;
 	display:inline-block;
